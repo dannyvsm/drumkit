@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
 
 * {
-    background-color: antiquewhite;
+    background-color: whitesmoke;
 }
 
 .container {
@@ -21,53 +21,62 @@
 .boom {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #FFC2E0;
 }
 
 .clap {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #FF5C5C;
 }
 
 .hihat {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #FFB65C;
 }
 
 .kick {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #FFFF5C;
 }
 
 .openhat {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #99FF99;
 }
 
 .ride {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #99FFFF;
 }
 
 .snare {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #B885FF;
 }
 
 .tink {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: #FF99FF;
 }
 
 .tom {
     width: 5%;
     border-style: solid;
-    border-width: 0px 0px 2px 0px;
+    border-width: 0px 0px 3px 0px;
+    border-color: black;
 }
