@@ -30,8 +30,14 @@ document.addEventListener('keydown', (event) => {
     }
 });
 
-// document.addEventListener('click', (event) => {
-//     let boom = document.getElementsByClassName("boom")
+// let boom = document.getElementsByClassName("boom")
+
+// boom.addEventListener('click', (event) => {
+//     document.getElementById("boom-a").play();
+// })
+
+//     boom.addEventListener("")
+
 //     let clap = document.getElementsByClassName("clap")
 //     let hihat = document.getElementsByClassName("hihat")
 //     let kick = document.getElementsByClassName("kick")
