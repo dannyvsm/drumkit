@@ -1,5 +1,3 @@
-
-
 document.addEventListener('keydown', (event) => {
     if (event.code == 'KeyA') {
         document.getElementById("boom-a").play();
