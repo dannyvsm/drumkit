@@ -9,6 +9,10 @@
     justify-content: center;
 }
 
+.audio {
+    display: none;
+}
+
 .drum-keys {
     width: 100%;
     display: flex;
