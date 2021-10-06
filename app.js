@@ -1,34 +1,34 @@
 
 
 document.addEventListener('keydown', (event) => {
-    if (event.code == KeyA) {
-        //play audio
+    if (event.code == 'KeyA') {
+        document.getElementById("boom-a").play();
     }
-    else if (event.code == KeyS) {
-        //play audio
+    else if (event.code == 'KeyS') {
+        document.getElementById("clap-a").play();
     }
-    else if (event.code == KeyD) {
-        //play audio
+    else if (event.code == 'KeyD') {
+        document.getElementById("hihat-a").play();
     }
-    else if (event.code == KeyF) {
-        //play audio
+    else if (event.code == 'KeyF') {
+        document.getElementById("kick-a").play();
     }
-    else if (event.code == KeyG) {
-        //play audio
+    else if (event.code == 'KeyG') {
+        document.getElementById("openhat-a").play();
     }
-    else if (event.code == KeyH) {
-        //play audio
+    else if (event.code == 'KeyH') {
+        document.getElementById("ride-a").play();
     }
-    else if (event.code == KeyJ) {
-        //play audio
+    else if (event.code == 'KeyJ') {
+        document.getElementById("snare-a").play();
     }
-    else if (event.code == KeyK) {
-        //play audio
+    else if (event.code == 'KeyK') {
+        document.getElementById("tink-a").play();
     }
-    else if (event.code == KeyL) {
-        //play audio
+    else if (event.code == 'KeyL') {
+        document.getElementById("tom-a").play();
     }
-})
+});
 
 // document.addEventListener('click', (event) => {
 //     let boom = document.getElementsByClassName("boom")
